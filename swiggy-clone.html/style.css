@@ -1,0 +1,15 @@
+.*{
+     font-family:'mulish' ;
+     padding: 0px;
+     margin: 0px;
+}
+
+/*navbar section*/
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    box-shadow: ;
+}
