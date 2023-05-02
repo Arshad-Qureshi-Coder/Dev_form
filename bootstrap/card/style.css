@@ -1,0 +1,39 @@
+/*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+    
+}
+.card{
+    width: 18rem;
+    padding: 33px;
+    padding-bottom: 0;
+    background-color: rgb(186, 217, 245);
+    
+}
+
+
+.card-body{
+	margin:10px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.card-img-top{
+    width: 100px;
+}
+
+.card-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.card-text{
+    font: 300;
+    text-align: center;
+}
+
+.btn-primary{
+    text-align: center;
+    background-color: red;
+}
